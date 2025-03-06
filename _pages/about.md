@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🛶Canoe's Homepage"
+title: "🛶Yongzhou Yao's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
