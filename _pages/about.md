@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hello there, this is Canoe's Academic page🛶"
+title: "👋Hello there, this is Canoe's Homepage🛶"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,12 +10,13 @@ redirect_from:
 
 🎓 I'm a third-grade undergraduate student at [University of Chinese Academy of Science](https://www.ucas.ac.cn/). 
 
-🔬 I haven't really figured out where my research interest lies😥. I'm working on that and hopefully this problem will be solved soon.
+🔬 I haven't really figured out where my research interest lies yet😥. But I'm working on that and hopefully this problem will be solved soon.
 
 📚 I'm currently working towards LLM Watermarking, under the guidance of [Prof. Sun](https://ofey.me)
 
 
 ## 🏫 Educations
+
 2022.09 - Present, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
 
 ## 📘 Publications
