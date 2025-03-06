@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yongzhou Yao's Academic Page"
+title                    : "Yongzhou Yao's Homepage"
 title_separator          : "-"
 name                     : &name "Yongzhou Yao"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   # pronouns         : # example: "she/her"  
   bio              : "Stand Out Fit in"
   location         : "BeiJing, China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "UCAS"
   # uri              : # URL
   email            : "yaoyongzhou22@mails.ucas.ac.cn" 
 

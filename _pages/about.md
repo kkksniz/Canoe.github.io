@@ -10,19 +10,19 @@ redirect_from:
 
 🎓 I'm a third-grade undergraduate student at [University of Chinese Academy of Science](https://www.ucas.ac.cn/). 
 
-🔬 I haven't really figured out where my research interest lies😥, but I do intend to solve this problem through intern experience.
+🔬 I haven't really figured out where my research interest lies😥. I'm working on that and hopefully this problem will be solved soon.
 
 📚 I'm currently working towards LLM Watermarking, under the guidance of [Prof. Sun](https://ofey.me)
 
 
-## Educations
+## 🏫 Educations
 2022.09 - Present, B.S. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
 
-## Publications
+## 📘 Publications
 
 TBD
 
-## Awards
+## 🏆 Awards
 
 - Triple-A Student, University of Chinese Academy of Sciences
   - Awarded in June 2023 and June 2024
@@ -34,7 +34,7 @@ TBD
   - Awarded in October 2023
 
 
-## Public Affiars
+## 🧑‍🎓 Public Affiars
 
 - Officer of the Propaganda Center, Undergraduate Student Union, University of Chinese Academy of Sciences
 
