@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![A picture of LLM watermarking generate by DALL·E](/images/llm_watermark.webp){: .align-right width="300px"}
+![A picture of LLM watermarking generate by DALL·E](/Canoe.github.io/images/llm_watermark.webp){: .align-right width="300px"}
 🎓 I'm a third-grade undergraduate student at [University of Chinese Academy of Science](https://www.ucas.ac.cn/). 
 
 🔬 I haven't really figured out where my research interest lies yet😥. But I'm working on that and hopefully this problem will be solved soon.
