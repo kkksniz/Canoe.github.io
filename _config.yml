@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Canoe's homepage"
-title                    : "Your Name / Site Title"
+site_theme               : "default"
+title                    : "Yongzhou Yao's Academic Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
